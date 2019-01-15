@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opgave_variabeltal", "opgave_variabeltal\opgave_variabeltal.csproj", "{5D0560B3-D4EB-477C-AA97-2F01B9C457E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regnemaskine-Typekonvertering", "Regnemaskine-Typekonvertering\Regnemaskine-Typekonvertering.csproj", "{A009A2B7-1FAA-42DB-B7EF-A7B70D46747D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTime og TimeSpan", "ConsoleApp1\DataTime og TimeSpan.csproj", "{CDB56FAA-96CF-41C4-8AFA-D169ADD9F606}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brug af stenge", "ConsoleApp2\Brug af stenge.csproj", "{12DF1A3A-52C0-48F9-8AA4-5EE9B8A96833}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{5D0560B3-D4EB-477C-AA97-2F01B9C457E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D0560B3-D4EB-477C-AA97-2F01B9C457E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D0560B3-D4EB-477C-AA97-2F01B9C457E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A009A2B7-1FAA-42DB-B7EF-A7B70D46747D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A009A2B7-1FAA-42DB-B7EF-A7B70D46747D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A009A2B7-1FAA-42DB-B7EF-A7B70D46747D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A009A2B7-1FAA-42DB-B7EF-A7B70D46747D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDB56FAA-96CF-41C4-8AFA-D169ADD9F606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB56FAA-96CF-41C4-8AFA-D169ADD9F606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB56FAA-96CF-41C4-8AFA-D169ADD9F606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB56FAA-96CF-41C4-8AFA-D169ADD9F606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12DF1A3A-52C0-48F9-8AA4-5EE9B8A96833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12DF1A3A-52C0-48F9-8AA4-5EE9B8A96833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12DF1A3A-52C0-48F9-8AA4-5EE9B8A96833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12DF1A3A-52C0-48F9-8AA4-5EE9B8A96833}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -24,8 +24,8 @@ namespace opgave_variabeltal
             
 
             Console.WriteLine($"kommatal = {kommatal}");
-       
-            
+
+            //første kode
 
 
 
