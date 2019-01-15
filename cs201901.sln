@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brug af Struct", "Brug af S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brug af Struct og Enum", "Brug af Struct og Enum\Brug af Struct og Enum.csproj", "{C9CB1073-E7AC-4588-8AA9-8D31C0E7A7B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flow (for og if)", "ConsoleApp3\Flow (for og if).csproj", "{696B7814-4EAE-46F2-BB76-97B3A772AF0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{C9CB1073-E7AC-4588-8AA9-8D31C0E7A7B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9CB1073-E7AC-4588-8AA9-8D31C0E7A7B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9CB1073-E7AC-4588-8AA9-8D31C0E7A7B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{696B7814-4EAE-46F2-BB76-97B3A772AF0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{696B7814-4EAE-46F2-BB76-97B3A772AF0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{696B7814-4EAE-46F2-BB76-97B3A772AF0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{696B7814-4EAE-46F2-BB76-97B3A772AF0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
